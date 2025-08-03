@@ -128,10 +128,9 @@ MIT License
 
 ## 联系我们
 
-- 邮箱: contact@parallel-x.com
-- 官网: https://parallel-x.com
-- 社区: https://community.parallel-x.com
+2441497294@qq.com
 
 ---
+
 
 ⭐ 如果这个项目对您有帮助，请给我们一个Star！
